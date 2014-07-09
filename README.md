@@ -1,4 +1,4 @@
-bson-haskell [![Build Status](https://secure.travis-ci.org/selectel/bson-haskell.png)](http://travis-ci.org/selectel/bson-haskell)
+bson-haskell [![Build Status](https://secure.travis-ci.org/mongodb-haskell/bson.png)](http://travis-ci.org/mongodb-haskell/bson)
 ------------
 
 Haskell library for the encoding and decoding BSON documents, which are
